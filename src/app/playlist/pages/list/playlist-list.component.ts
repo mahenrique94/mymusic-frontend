@@ -1,6 +1,6 @@
 import { types } from '@/constants/EventsTypes'
 
-import _ from 'lodash'
+import * as _ from 'lodash'
 
 import { Component, OnInit } from '@angular/core'
 
